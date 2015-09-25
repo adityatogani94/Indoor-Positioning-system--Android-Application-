@@ -1,0 +1,2 @@
+# Indoor-Positioning-system--Android-Application
+Indoor Positioning System (IPS) can be used where GPS is inadequate. An IPS shows your location inside a building (for example: Which floor you are on?). We created an android application that mapped our entire college campus using college Wi-Fi routers. It takes the co-ordinates of 3 nearby routers along with the strength of the router and calculates the position of the device with the help of a triangulation algorithm.
